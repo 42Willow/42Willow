@@ -1,11 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on: DEEDS++, discord bots, websites and schoolwork.
+- 🔭 I’m currently working on: Schooltape, websites and schoolwork.
 - 🌱 I’m currently learning: Everything.
-- 👯 I’m looking to collaborate on: DEEDS++ if your in my school.
+- 👯 I’m looking to collaborate on: Schooltape.
 - 🤔 I’m looking for help with: Python, CSS and Javascript.
 - 💬 Ask me about: Python, HTML and CSS.
-- 📫 How to reach me: Discord (Dumbledore#5175).
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: There is/was a pandemic called COVID-19 which I was in.
 <!--
