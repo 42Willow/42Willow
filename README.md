@@ -1,12 +1,4 @@
-### Hi there 👋
-
-- 🔭 I’m currently working on: Schooltape, websites and schoolwork.
-- 🌱 I’m currently learning: Everything.
-- 👯 I’m looking to collaborate on: Schooltape.
-- 🤔 I’m looking for help with: Python, CSS and Javascript.
-- 💬 Ask me about: Python, HTML and CSS.
-- 😄 Pronouns: He/Him.
-- ⚡ Fun fact: There is/was a pandemic called COVID-19 which I was in.
+### Hello there 👋
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=burraby&layout=compact&theme=onedark)
 
