@@ -1,5 +1,5 @@
 ### Hello there 👋
-I am a beginner developer currently works with HTML, JavaScript, CSS and Python.
+I am a beginner developer who currently works with HTML, JavaScript, CSS and Python.
 
 ![Burraby's GitHub stats](https://github-readme-stats.vercel.app/api?username=burraby&show_icons=true&theme=onedark)
 
