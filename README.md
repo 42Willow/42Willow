@@ -1,5 +1,5 @@
 ### Hello there 👋
-I am a beginner developer who currently works with HTML, JavaScript, CSS and Python.
+I am a beginner developer who currently works with HTML, JavaScript, CSS and Python. Note: Most of my repositories are private thats why my stats look kind of depressing...
 
 ![Burraby's GitHub stats](https://github-readme-stats.vercel.app/api?username=burraby&show_icons=true&theme=onedark)
 
