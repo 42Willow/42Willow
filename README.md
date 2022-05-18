@@ -1,9 +1,8 @@
 ### Hello there 👋
-I am a beginner developer who currently works with HTML, JavaScript, CSS and Python. Note: Most of my repositories are private thats why my stats look kind of depressing...
 
-![Burraby's GitHub stats](https://github-readme-stats.vercel.app/api?username=burraby&show_icons=true&theme=onedark)
+![Burraby's GitHub stats](https://github-readme-stats.vercel.app/api?username=42Mockingjay&show_icons=true&theme=onedark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=burraby&layout=compact&theme=onedark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=42Mockingjay&layout=compact&theme=onedark)
 
 <!--
 **Dumbledore-web/Dumbledore-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
