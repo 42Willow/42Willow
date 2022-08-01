@@ -1,10 +1,10 @@
 ![](https://c.tenor.com/DSG9ZID25nsAAAAC/hello-there-general-kenobi.gif)
 
-![](https://komarev.com/ghpvc/?username=42Mockingjay) <-- Number actually inaccurate because it's just me reloading GitHub :|
+![](https://komarev.com/ghpvc/?username=42Willow) <-- Number actually inaccurate because it's just me reloading GitHub :|
 
-![Burraby's GitHub stats](https://github-readme-stats.vercel.app/api?username=42Mockingjay&show_icons=true&theme=onedark)
+![Burraby's GitHub stats](https://github-readme-stats.vercel.app/api?username=42Willow&show_icons=true&theme=onedark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=42Mockingjay&layout=compact&theme=onedark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=42Willow&layout=compact&theme=onedark)
 
 ### FAQ:
 #### What is the meaning of life?
