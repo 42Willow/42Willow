@@ -8,7 +8,7 @@
 
 ### FAQ:
 #### What is the meaning of life?
-42
+42... or is it 59?
 #### Why am I creating an FAQ no one will read?
 \*No comment\*
 
