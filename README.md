@@ -1,6 +1,6 @@
 ![](https://c.tenor.com/DSG9ZID25nsAAAAC/hello-there-general-kenobi.gif)
 
-![](https://komarev.com/ghpvc/?username=42Willow) <-- Number actually inaccurate because it's just me reloading GitHub :|
+![](https://komarev.com/ghpvc/?username=42Willow)
 
 ![Burraby's GitHub stats](https://github-readme-stats.vercel.app/api?username=42Willow&show_icons=true&theme=onedark)
 
