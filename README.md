@@ -1,3 +1,11 @@
+:wave: Hello, I'm 42Willow.
+
+:globe_with_meridians: Contact info on profile
+
+:seedling: I enjoy playing block games, programming, procrastinating.
+
+:technologist: Basic knowledge in Python, HTML, CSS, JS, and C#
+
 ![42Willow's GitHub stats](https://github-readme-stats.vercel.app/api?username=42Willow&show_icons=true&theme=onedark)
 
 ## Contact me
