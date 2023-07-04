@@ -19,6 +19,8 @@ And currently learning more!
 
 ## Contact me
 [![Matrix.org](https://img.shields.io/badge/matrix-black?style=for-the-badge&logo=matrix)](https://matrix.to/#/@42willow:matrix.org)
+[![Mastodon](https://img.shields.io/badge/mastodon-%236364FF?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@42willow)
+[![Reddit](https://img.shields.io/badge/reddit-%23FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/u/42willow)
 
 ## FAQ:
 ### What is the meaning of life?
