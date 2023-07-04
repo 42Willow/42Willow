@@ -4,6 +4,8 @@
 * :technologist: Basic knowledge in Python, HTML, CSS, JS, and C#
 * :art: Making pixel art on Aseprite
 
+![42Willow's GitHub stats](https://github-readme-stats.vercel.app/api?username=42Willow&show_icons=true&theme=onedark)
+
 ## Stuff I Use (Tools, Software, Languages):
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -14,8 +16,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 And currently learning more!
-
-![42Willow's GitHub stats](https://github-readme-stats.vercel.app/api?username=42Willow&show_icons=true&theme=onedark)
 
 ## Contact me
 [![Matrix.org](https://img.shields.io/badge/matrix-black?style=for-the-badge&logo=matrix)](https://matrix.to/#/@42willow:matrix.org)
