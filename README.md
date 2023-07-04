@@ -18,8 +18,7 @@ And currently learning more!
 ![42Willow's GitHub stats](https://github-readme-stats.vercel.app/api?username=42Willow&show_icons=true&theme=onedark)
 
 ## Contact me
-![Matrix.org](https://img.shields.io/badge/matrix-black?style=for-the-badge&logo=matrix&link=https%3A%2F%2Fmatrix.to%2F%23%2F%4042willow%3Amatrix.org)
-
+[![Matrix.org](https://img.shields.io/badge/matrix-black?style=for-the-badge&logo=matrix)](https://matrix.to/#/@42willow:matrix.org)
 
 ## FAQ:
 ### What is the meaning of life?
