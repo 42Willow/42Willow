@@ -20,7 +20,7 @@
 
 And currently learning more!
 
-#### Tools
+#### Apps
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Vivaldi](https://img.shields.io/badge/vivaldi-%23EF3939?style=for-the-badge&logo=vivaldi&logoColor=white)
