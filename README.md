@@ -1,15 +1,15 @@
 ![42Willow's GitHub stats](https://github-readme-stats.vercel.app/api?username=42Willow&show_icons=true&theme=onedark)
 
+## Contact me
+[![Matrix.org](https://img.shields.io/badge/matrix-black?style=for-the-badge&logo=matrix)](https://matrix.to/#/@42willow:matrix.org)
+[![Mastodon](https://img.shields.io/badge/mastodon-%236364FF?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@42willow)
+[![Reddit](https://img.shields.io/badge/reddit-%23FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/u/42willow)
+
 * :wave: Hi, I'm 42Willow
 * :globe_with_meridians: Contact info on profile
 * :seedling: I enjoy playing block games, programming, procrastinating
 * :technologist: Basic knowledge in Python, HTML, CSS, JS, and C#
 * :art: Making pixel art on Aseprite
-
-## Contact me
-[![Matrix.org](https://img.shields.io/badge/matrix-black?style=for-the-badge&logo=matrix)](https://matrix.to/#/@42willow:matrix.org)
-[![Mastodon](https://img.shields.io/badge/mastodon-%236364FF?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@42willow)
-[![Reddit](https://img.shields.io/badge/reddit-%23FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/u/42willow)
 
 ## Stuff I Use:
 #### Languages
