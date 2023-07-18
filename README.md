@@ -4,8 +4,9 @@
 <a href="https://github.com/42willow">
   <img height=200 align="center" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=42Willow&theme=onedark&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" />
 </a>
-Above are some very overused GitHub readme stats. I don't know what's happening with typescript though - I barely use it.
+<br><br>
 
+Above are some very overused GitHub readme stats. I don't know what's happening with typescript though - I barely use it.
 
 ## Contact me
 [![Matrix.org](https://img.shields.io/badge/matrix-black?style=for-the-badge&logo=matrix)](https://matrix.to/#/@42willow:matrix.org)
