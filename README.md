@@ -33,6 +33,7 @@
 ![Element.io](https://img.shields.io/badge/element-%230DBD8B?style=for-the-badge&logo=element&logoColor=white)
 ![Prism Launcher](https://img.shields.io/badge/prism_launcher-%2362B47A?style=for-the-badge&logoColor=white)
 ![Adobe CC](https://img.shields.io/badge/adobe_cc-%23DA1F26?style=for-the-badge&logo=adobecreativecloud&logoColor=white)
+![Canva](https://img.shields.io/badge/canva-%2300C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 #### OS
 ![Windows](https://img.shields.io/badge/windows-%230078D4?style=for-the-badge&logo=windows11&logoColor=white)
