@@ -9,6 +9,7 @@
 [![Mastodon](https://img.shields.io/badge/mastodon-%236364FF?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@42willow)
 [![Reddit](https://img.shields.io/badge/reddit-%23FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/u/42willow)
 
+## Stats
 Here are some very overused GitHub readme stats. I don't know what's happening with typescript though - I barely use it.
 
 <a href="https://github.com/42willow">
