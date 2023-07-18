@@ -1,5 +1,9 @@
-![42Willow's GitHub stats](https://github-readme-stats.vercel.app/api?username=42Willow&show_icons=true&theme=onedark&rank_icon=github&include_all_commits=true&show=discussions_started)
-![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=42Willow&theme=onedark&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
+<a href="https://github.com/42willow">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=42Willow&show_icons=true&theme=onedark&rank_icon=github&include_all_commits=true&show=discussions_started" />
+</a>
+<a href="https://github.com/42willow">
+  <img height=200 align="center" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=42Willow&theme=onedark&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" />
+</a>
 
 
 ## Contact me
