@@ -1,4 +1,6 @@
-![42Willow's GitHub stats](https://github-readme-stats.vercel.app/api?username=42Willow&show_icons=true&theme=onedark)
+![42Willow's GitHub stats](https://github-readme-stats.vercel.app/api?username=42Willow&show_icons=true&theme=onedark&rank_icon=github&include_all_commits=true&show=discussions_started)
+![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=42Willow&theme=onedark&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
+
 
 ## Contact me
 [![Matrix.org](https://img.shields.io/badge/matrix-black?style=for-the-badge&logo=matrix)](https://matrix.to/#/@42willow:matrix.org)
