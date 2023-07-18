@@ -30,6 +30,8 @@
 ![Obsidian.md](https://img.shields.io/badge/obsidian.md-%237C3AED?style=for-the-badge&logo=obsidian&logoColor=white)
 ![Aseprite](https://img.shields.io/badge/aseprite-%23544450?style=for-the-badge&logo=aseprite&logoColor=white)
 ![Spicetify](https://img.shields.io/badge/spicetify-%231DB954?style=for-the-badge&logo=spotify&logoColor=white)
+![Prism Launcher](https://img.shields.io/badge/prism_launcher-%2362B47A?style=for-the-badge&logoColor=white)
+![Adobe CC](https://img.shields.io/badge/adobe_cc-%23DA1F26?style=for-the-badge&logo=adobecreativecloud&logoColor=white)
 
 #### OS
 ![Windows](https://img.shields.io/badge/windows-%230078D4?style=for-the-badge&logo=windows11&logoColor=white)
