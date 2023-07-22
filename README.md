@@ -21,15 +21,7 @@ Here are some very overused GitHub readme stats. I don't know what's happening w
 
 ## Stuff I Use:
 #### Languages (Basic knowledge)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=python&logoColor=white)
-![Micropython](https://img.shields.io/badge/micropython-%232B2728?style=for-the-badge&logo=micropython&logoColor=white)
-![Arduino C++](https://img.shields.io/badge/Arduino_C%2B%2B-%2300979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Lua](https://img.shields.io/badge/lua-%232C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![My Languages](https://skillicons.dev/icons?i=html,css,js,cs,cpp,py,lua,java)
 
 #### Apps
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
