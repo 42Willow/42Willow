@@ -1,4 +1,8 @@
 # :wave: Hi, I'm 42Willow
+<a href="https://github.com/tthn0/Spotify-Readme">
+  <img src="https://spotify-readme-n30k31uw0-42mockingjay.vercel.app/api?rainbow=true?theme=dark" alt="Current Spotify Song">
+</a>
+
 * :globe_with_meridians: Contact info on profile
 * :seedling: I enjoy playing block games, programming, procrastinating
 * :technologist: Basic knowledge in Python, HTML, CSS, JS, and C#
