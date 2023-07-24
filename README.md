@@ -17,7 +17,9 @@
   <img src="https://spotify-readme-n30k31uw0-42mockingjay.vercel.app/api?theme=dark&rainbow=true" alt="Current Spotify Song">
 </a>
 
+<!-- 
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31dbqzfllsx6t6reikmjcnvjdr4e&width=495)
+-->
 
 ## ☎️ Contact me
 [![Matrix.org](https://img.shields.io/badge/matrix-black?style=for-the-badge&logo=matrix)](https://matrix.to/#/@42willow:matrix.org)
