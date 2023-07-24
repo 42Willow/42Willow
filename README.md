@@ -2,10 +2,9 @@
 
 <h3 align="center">Hi there, I’m 42Willow <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"></h3>
 
-* :globe_with_meridians: Contact info on profile
-* :seedling: I enjoy playing block games, programming, procrastinating
+* :seedling: I enjoy playing [block games](https://prismlauncher.org), [programming](https://code.visualstudio.com), procrastinating
 * :technologist: Basic knowledge in Python, HTML, CSS, JS, and C#
-* :art: Making pixel art on Aseprite
+* :art: Making pixel art on [Aseprite](https://github.com/aseprite/aseprite)
 
 ## 🎶 Vibing to
 <a href="https://spicetify.app">
