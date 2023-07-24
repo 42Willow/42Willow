@@ -5,6 +5,7 @@
 * :seedling: I enjoy playing [block games](https://prismlauncher.org), [programming](https://code.visualstudio.com), procrastinating
 * :technologist: Basic knowledge in Python, HTML, CSS, JS, and C#
 * :art: Making pixel art on [Aseprite](https://github.com/aseprite/aseprite)
+* :bird: I love [birds](https://ebird.org)
 
 ## 🎶 Vibing to
 <div>
