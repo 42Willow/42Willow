@@ -8,7 +8,7 @@
 
 ## 🎶 Vibing to
 <div>
-  <img src="https://spotify-readme-n30k31uw0-42mockingjay.vercel.app/api?theme=dark&scan=true&rainbow=true" alt="Current Spotify Song">
+  <img src="https://spotify-readme-n30k31uw0-42mockingjay.vercel.app/api?theme=dark&rainbow=true" alt="Current Spotify Song">
 </div>
 
 ## ☎️ Contact me
