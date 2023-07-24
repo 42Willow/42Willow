@@ -19,9 +19,9 @@
 
 ## 📈 Stats
 
-<a href="https://github.com/42willow">
+<div>
   <img src="https://github-readme-stats.vercel.app/api?username=42willow&show_icons=true&rank_icon=github&include_all_commits=true&show=discussions_starte&count_private=true&hide_border=true&bg_color=161B22&text_color=c9d1d9&title_color=50a6ff&icon_color=3572a5d&card_width=445" />
-</a>
+</div>
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=42willow&langs_count=8&layout=compact&hide_border=true&bg_color=161B22&text_color=c9d1d9&title_color=50a6ff&icon_color=3572a5&card_width=445"/>
