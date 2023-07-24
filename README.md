@@ -1,6 +1,11 @@
 <!-- Credit to https://github.com/tthn0/tthn0 for README idea -->
 
 <h3 align="center">Hi there, I’m 42Willow <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"></h3>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/42willow/42willow/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/42willow/42willow/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/42willow/42willow/output/github-contribution-grid-snake.svg">
+</picture>
 
 * :seedling: I enjoy playing [block games](https://prismlauncher.org), [programming](https://code.visualstudio.com), procrastinating
 * :technologist: Basic knowledge in Python, HTML, CSS, JS, and C#
