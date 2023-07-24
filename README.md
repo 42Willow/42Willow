@@ -7,9 +7,9 @@
 * :art: Making pixel art on [Aseprite](https://github.com/aseprite/aseprite)
 
 ## 🎶 Vibing to
-<a href="https://spicetify.app">
+<div>
   <img src="https://spotify-readme-n30k31uw0-42mockingjay.vercel.app/api?theme=dark&scan=true&rainbow=true" alt="Current Spotify Song">
-</a>
+</div>
 
 ## ☎️ Contact me
 [![Matrix.org](https://img.shields.io/badge/matrix-black?style=for-the-badge&logo=matrix)](https://matrix.to/#/@42willow:matrix.org)
