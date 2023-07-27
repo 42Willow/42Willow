@@ -119,3 +119,5 @@ PROCESSOR_REVISION=8e0c
 42... or is it 59?
 ### Why am I creating an FAQ no one will read?
 \*No comment\*
+### What's top right?
+Binary. Pixel = 1. Off = 0.
