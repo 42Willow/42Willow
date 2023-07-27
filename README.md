@@ -45,7 +45,23 @@
 </div>
 
 ## 🛠 Architecture
+### Earthy (main)
+```cmd
+C:\Users\42willow> msinfo32
 
+💾 OS     ~  Windows 11 Pro
+💻 Host   ~  Lenovo Thinkpad Yoga X1
+💽 Shell  ~  cmd
+```
+### Deepthought (tinkering)
+```console
+42willow@deepthought:~$ hostnamectl
+
+💾 OS     ~  Ubuntu 22.04
+💻 Host   ~  Old custom PC
+💽 Shell  ~  bash
+```
+<!--
 ```
 C:\Users\42willow>systeminfo
 
@@ -63,8 +79,10 @@ PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 142 Stepping 12, GenuineIntel
 PROCESSOR_LEVEL=6
 PROCESSOR_REVISION=8e0c
 ```
+-->
 
 ## 🔨 Tools
+<!--
 ### Languages
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -78,11 +96,13 @@ PROCESSOR_REVISION=8e0c
 
 ### Apps
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Vivaldi](https://img.shields.io/badge/vivaldi-%23EF3939?style=for-the-badge&logo=vivaldi&logoColor=white)
-![Obsidian.md](https://img.shields.io/badge/obsidian.md-%237C3AED?style=for-the-badge&logo=obsidian&logoColor=white)
-![Aseprite](https://img.shields.io/badge/aseprite-%23544450?style=for-the-badge&logo=aseprite&logoColor=white)
-![Spicetify](https://img.shields.io/badge/spicetify-%231DB954?style=for-the-badge&logo=spotify&logoColor=white)
+-->
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=black)
+![Vivaldi](https://img.shields.io/badge/vivaldi-%23EF3939?style=for-the-badge&logo=vivaldi&logoColor=white&labelColor=black)
+![Obsidian.md](https://img.shields.io/badge/obsidian.md-%237C3AED?style=for-the-badge&logo=obsidian&logoColor=white&labelColor=black)
+![Aseprite](https://img.shields.io/badge/aseprite-%23544450?style=for-the-badge&logo=aseprite&logoColor=white&labelColor=black)
+![Spicetify](https://img.shields.io/badge/spicetify-%231DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=black)
+<!--
 ![Element.io](https://img.shields.io/badge/element-%230DBD8B?style=for-the-badge&logo=element&logoColor=white)
 ![Prism Launcher](https://img.shields.io/badge/prism_launcher-%2362B47A?style=for-the-badge&logoColor=white)
 ![Adobe CC](https://img.shields.io/badge/adobe_cc-%23DA1F26?style=for-the-badge&logo=adobecreativecloud&logoColor=white)
@@ -92,6 +112,7 @@ PROCESSOR_REVISION=8e0c
 ![Windows](https://img.shields.io/badge/windows-%230078D4?style=for-the-badge&logo=windows11&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/raspberry_pi-%23A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/ubuntu-%23E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+-->
 
 ## 📃 FAQ
 ### What is the meaning of life?
