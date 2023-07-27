@@ -98,10 +98,10 @@ PROCESSOR_REVISION=8e0c
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 -->
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=black)
-![Vivaldi](https://img.shields.io/badge/vivaldi-%23EF3939?style=for-the-badge&logo=vivaldi&logoColor=white&labelColor=black)
+![Vivaldi](https://img.shields.io/badge/vivaldi-red?style=for-the-badge&logo=vivaldi&logoColor=white&labelColor=black)
 ![Obsidian.md](https://img.shields.io/badge/obsidian.md-%237C3AED?style=for-the-badge&logo=obsidian&logoColor=white&labelColor=black)
 ![Aseprite](https://img.shields.io/badge/aseprite-%23544450?style=for-the-badge&logo=aseprite&logoColor=white&labelColor=black)
-![Spicetify](https://img.shields.io/badge/spicetify-%231DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=black)
+![Spicetify](https://img.shields.io/badge/spicetify-%233e8625?style=for-the-badge&logo=spotify&logoColor=white&labelColor=black)
 <!--
 ![Element.io](https://img.shields.io/badge/element-%230DBD8B?style=for-the-badge&logo=element&logoColor=white)
 ![Prism Launcher](https://img.shields.io/badge/prism_launcher-%2362B47A?style=for-the-badge&logoColor=white)
