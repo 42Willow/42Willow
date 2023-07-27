@@ -46,7 +46,7 @@
 
 ## 🛠 Architecture
 ### Earthy (main)
-```cmd
+```console
 C:\Users\42willow> msinfo32
 
 💾 OS     ~  Windows 11 Pro
