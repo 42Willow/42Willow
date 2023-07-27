@@ -1,6 +1,19 @@
 <!-- Credit to https://github.com/tthn0/tthn0 for README idea -->
 
 <h3 align="center">Hi there, I’m 42Willow <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"></h3>
+
+<div align="center">
+  <a href="https://matrix.to/#/@42willow:matrix.org">
+    <img src="https://img.shields.io/badge/matrix-black?style=flat&logo=matrix" alt="Matrix.org">
+  </a>
+  <a href="https://mastodon.social/@42willow">
+    <img src="https://img.shields.io/badge/mastodon-%236364FF?style=flat&logo=mastodon&logoColor=white" alt="Mastodon">
+  </a>
+  <a href="https://reddit.com/u/42willow">
+    <img src="https://img.shields.io/badge/reddit-%23FF4500?style=flat&logo=reddit&logoColor=white" alt="Reddit">
+  </a>
+</div>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/42willow/42willow/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/42willow/42willow/output/github-contribution-grid-snake.svg">
@@ -16,15 +29,6 @@
 <a href="https://open.spotify.com/user/31dbqzfllsx6t6reikmjcnvjdr4e?si=2c59b84236f14b63" target="_blank">
   <img src="https://spotify-readme-n30k31uw0-42mockingjay.vercel.app/api?theme=dark&rainbow=true" alt="Current Spotify Song">
 </a>
-
-<!-- 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31dbqzfllsx6t6reikmjcnvjdr4e&width=495)
--->
-
-## ☎️ Contact me
-[![Matrix.org](https://img.shields.io/badge/matrix-black?style=for-the-badge&logo=matrix)](https://matrix.to/#/@42willow:matrix.org)
-[![Mastodon](https://img.shields.io/badge/mastodon-%236364FF?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@42willow)
-[![Reddit](https://img.shields.io/badge/reddit-%23FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/u/42willow)
 
 ## 📈 Stats
 
