@@ -24,6 +24,7 @@
 * :technologist: Basic knowledge in Python, HTML, CSS, JS, and C#
 * :art: Making pixel art on [Aseprite](https://github.com/aseprite/aseprite)
 * :bird: I love [birds](https://ebird.org)
+* :keyboard: Currently working on [Nocrastinate](https://42willow.github.io/nocrastinate)
 
 ## 🎶 Vibing to
 <a href="https://open.spotify.com/user/31dbqzfllsx6t6reikmjcnvjdr4e?si=2c59b84236f14b63" target="_blank">
