@@ -47,13 +47,29 @@
 
 ## 🛠 Architecture
 ### Earthy (main)
-```console
-C:\Users\42willow> msinfo32
-
-💾 OS     ~  Windows 11 Pro
-💻 Host   ~  Lenovo Thinkpad Yoga X1
-💽 Shell  ~  cmd
-```
+<pre><span style="background-color:#494D64"> 42willow@earthy-fedora </span><span style="background-color:#8AADF4"><span style="color:#494D64"></span></span> neofetch
+<span style="color:#8AADF4"><b>             .&apos;,;::::;,&apos;.</b></span>                <span style="color:#8AADF4"><b>42willow</b></span>@<span style="color:#8AADF4"><b>earthy-fedora</b></span> 
+<span style="color:#8AADF4"><b>         .&apos;;:cccccccccccc:;,.</b></span>            ------------------- 
+<span style="color:#8AADF4"><b>      .;cccccccccccccccccccccc;.</b></span>         <span style="color:#8AADF4"><b>OS</b></span>: Fedora Linux 38 (Workstation Edition) x86_64 
+<span style="color:#8AADF4"><b>    .:cccccccccccccccccccccccccc:.</b></span>       <span style="color:#8AADF4"><b>Host</b></span>: 20SACTO1WW ThinkPad X1 Yoga 4th 
+<span style="color:#8AADF4"><b>  .;ccccccccccccc;</b></span><b>.:dddl:.</b><span style="color:#8AADF4"><b>;ccccccc;.</b></span>     <span style="color:#8AADF4"><b>Kernel</b></span>: 6.5.5-200.fc38.x86_64 
+<span style="color:#8AADF4"><b> .:ccccccccccccc;</b></span><b>OWMKOOXMWd</b><span style="color:#8AADF4"><b>;ccccccc:.</b></span>    <span style="color:#8AADF4"><b>Uptime</b></span>: 1 hour, 3 mins 
+<span style="color:#8AADF4"><b>.:ccccccccccccc;</b></span><b>KMMc</b><span style="color:#8AADF4"><b>;cc;</b></span><b>xMMc</b><span style="color:#8AADF4"><b>:ccccccc:.</b></span>   <span style="color:#8AADF4"><b>Packages</b></span>: 1889 (rpm), 20 (flatpak) 
+<span style="color:#8AADF4"><b>,cccccccccccccc;</b></span><b>MMM.</b><span style="color:#8AADF4"><b>;cc;</b></span><b>;WW:</b><span style="color:#8AADF4"><b>:cccccccc,</b></span>   <span style="color:#8AADF4"><b>Shell</b></span>: bash 5.2.15 
+<span style="color:#8AADF4"><b>:cccccccccccccc;</b></span><b>MMM.</b><span style="color:#8AADF4"><b>;cccccccccccccccc:</b></span>   <span style="color:#8AADF4"><b>Resolution</b></span>: 1920x1080 
+<span style="color:#8AADF4"><b>:ccccccc;</b></span><b>oxOOOo</b><span style="color:#8AADF4"><b>;</b></span><b>MMM0OOk.</b><span style="color:#8AADF4"><b>;cccccccccccc:</b></span>   <span style="color:#8AADF4"><b>DE</b></span>: GNOME 44.5 
+<span style="color:#8AADF4"><b>cccccc:</b></span><b>0MMKxdd:</b><span style="color:#8AADF4"><b>;</b></span><b>MMMkddc.</b><span style="color:#8AADF4"><b>;cccccccccccc;</b></span>   <span style="color:#8AADF4"><b>WM</b></span>: Mutter 
+<span style="color:#8AADF4"><b>ccccc:</b></span><b>XM0&apos;</b><span style="color:#8AADF4"><b>;cccc;</b></span><b>MMM.</b><span style="color:#8AADF4"><b>;cccccccccccccccc&apos;</b></span>   <span style="color:#8AADF4"><b>WM Theme</b></span>: Adwaita 
+<span style="color:#8AADF4"><b>ccccc;</b></span><b>MMo</b><span style="color:#8AADF4"><b>;ccccc;</b></span><b>MMW.</b><span style="color:#8AADF4"><b>;ccccccccccccccc;</b></span>    <span style="color:#8AADF4"><b>Theme</b></span>: Adwaita [GTK2/3] 
+<span style="color:#8AADF4"><b>ccccc;</b></span><b>0MNc.</b><span style="color:#8AADF4"><b>ccc</b></span><b>.xMMd</b><span style="color:#8AADF4"><b>:ccccccccccccccc;</b></span>     <span style="color:#8AADF4"><b>Icons</b></span>: Adwaita [GTK2/3] 
+<span style="color:#8AADF4"><b>cccccc;</b></span><b>dNMWXXXWM0:</b><span style="color:#8AADF4"><b>:cccccccccccccc:,</b></span>      <span style="color:#8AADF4"><b>Terminal</b></span>: gnome-terminal 
+<span style="color:#8AADF4"><b>cccccccc;</b></span><b>.:odl:.</b><span style="color:#8AADF4"><b>;cccccccccccccc:,.</b></span>       <span style="color:#8AADF4"><b>CPU</b></span>: Intel i5-10210U (8) @ 4.200GHz 
+<span style="color:#8AADF4"><b>:cccccccccccccccccccccccccccc:&apos;.</b></span>         <span style="color:#8AADF4"><b>GPU</b></span>: Intel CometLake-U GT2 [UHD Graphics] 
+<span style="color:#8AADF4"><b>.:cccccccccccccccccccccc:;,..</b></span>            <span style="color:#8AADF4"><b>Memory</b></span>: 5508MiB / 15611MiB 
+<span style="color:#8AADF4"><b>  &apos;::cccccccccccccc::;,.</b></span>
+                                         <span style="background-color:#494D64"><span style="color:#494D64">   </span></span><span style="background-color:#ED8796"><span style="color:#ED8796">   </span></span><span style="background-color:#A6DA95"><span style="color:#A6DA95">   </span></span><span style="background-color:#EED49F"><span style="color:#EED49F">   </span></span><span style="background-color:#8AADF4"><span style="color:#8AADF4">   </span></span><span style="background-color:#F5BDE6"><span style="color:#F5BDE6">   </span></span><span style="background-color:#8BD5CA"><span style="color:#8BD5CA">   </span></span><span style="background-color:#B8C0E0"><span style="color:#B8C0E0">   </span></span>
+                                         <span style="background-color:#5B6078"><span style="color:#5B6078">   </span></span><span style="background-color:#ED8796"><span style="color:#ED8796">   </span></span><span style="background-color:#A6DA95"><span style="color:#A6DA95">   </span></span><span style="background-color:#EED49F"><span style="color:#EED49F">   </span></span><span style="background-color:#8AADF4"><span style="color:#8AADF4">   </span></span><span style="background-color:#F5BDE6"><span style="color:#F5BDE6">   </span></span><span style="background-color:#8BD5CA"><span style="color:#8BD5CA">   </span></span><span style="background-color:#A5ADCB"><span style="color:#A5ADCB">   </span></span>
+</pre>
 ### Deepthought (tinkering)
 ```console
 42willow@deepthought:~$ hostnamectl
