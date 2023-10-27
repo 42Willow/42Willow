@@ -3,6 +3,10 @@
 <h3 align="center">Hi there, I’m 42Willow <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"></h3>
 
 <div align="center">
+  <a href="https://discord.com/users/752661242610450433">
+    <img src="https://img.shields.io/badge/discord-%235865F2?logo=discord&logoColor=white" alt="Discord">
+
+  </a>
   <a href="https://matrix.to/#/@42willow:matrix.org">
     <img src="https://img.shields.io/badge/matrix-black?style=flat&logo=matrix" alt="Matrix.org">
   </a>
