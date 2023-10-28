@@ -52,7 +52,7 @@
 ## 🛠 Architecture
 ### Earthy (main)
 ```console
-42willow@earthy:~$ hostnamectl
+42willow@earthy:~% hostnamectl
 
 💾 OS     ~  Fedora Workstation & Arch Linux & Windows 11
 💻 Host   ~  Thinkpad Yoga X1 4th
