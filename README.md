@@ -68,6 +68,15 @@
 💽 Shell  ~  bash
 ```
 
+### Raspberry Pi's (tinkering)
+```console
+42willow@pi:~$ hostnamectl
+
+💾 OS     ~  Raspberry Pi OS (Debian)
+💻 Host   ~  Raspberry Pi 4B/3B/3A/ZeroW
+💽 Shell  ~  bash
+```
+
 ## 🔨 Tools
 <!--
 ### Languages
