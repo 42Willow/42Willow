@@ -30,6 +30,7 @@
 * :bird: I love [birds](https://ebird.org)
 * :keyboard: Currently working on [Nocrastinate](https://42willow.github.io/nocrastinate)
 * :desktop_computer: My favourite distro is [Fedora](https://fedoraproject.org/), with [GNOME](https://www.gnome.org/)
+* :smile_cat: My favourite theme is [Catppuccin](https://github.com/catppuccin)
 
 ## 🎶 Vibing to
 <a href="https://open.spotify.com/user/31dbqzfllsx6t6reikmjcnvjdr4e?si=2c59b84236f14b63" target="_blank">
