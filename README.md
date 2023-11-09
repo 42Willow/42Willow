@@ -29,7 +29,7 @@
 * :art: Making pixel art on [Aseprite](https://github.com/aseprite/aseprite)
 * :bird: I love [birds](https://ebird.org)
 * :keyboard: Currently working on [Nocrastinate](https://42willow.github.io/nocrastinate)
-* :desktop_computer: My favourite distro is [Fedora](https://fedoraproject.org/), with [GNOME](https://www.gnome.org/)
+* :desktop_computer: My favourite distro is [Fedora](https://fedoraproject.org/), with [GNOME](https://www.gnome.org/) - although I'm trying out Nix and Hyprland
 * :smile_cat: My favourite theme is [Catppuccin](https://github.com/catppuccin)
 
 ## 🎶 Vibing to
@@ -56,7 +56,7 @@
 ```console
 42willow@earthy:~% hostnamectl
 
-💾 OS     ~  Fedora Workstation & Arch Linux & Windows 11
+💾 OS     ~  Fedora Workstation & NixOS & Windows 11
 💻 Host   ~  Thinkpad Yoga X1 4th
 💽 Shell  ~  zsh
 ```
