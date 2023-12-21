@@ -18,6 +18,9 @@
   </a>
 </div>
 
+
+<h4 align="center">Check out my <a href="https://github.com/42willow/dotfiles">dotfiles</a>!</h4>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/42willow/42willow/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/42willow/42willow/output/github-contribution-grid-snake.svg">
