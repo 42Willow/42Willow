@@ -66,11 +66,11 @@
 
 ### Deepthought (tinkering)
 ```console
-42willow@deepthought:~$ hostnamectl
+42willow@deepthought:~$ Get-ComputerInfo
 
-💾 OS     ~  OpenSUSE Tumbleweed
-💻 Host   ~  Old PC
-💽 Shell  ~  bash
+💾 OS     ~  Windows
+💻 Host   ~  PC
+💽 Shell  ~  powershell
 ```
 
 ### Raspberry Pi's (tinkering)
