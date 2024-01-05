@@ -61,7 +61,7 @@
 
 💾 OS     ~  Open SUSE Tumbleweed & Fedora Workstation & Windows 11
 💻 Host   ~  Thinkpad Yoga X1 4th
-💽 Shell  ~  zsh
+💽 Shell  ~  bash
 ```
 
 ### Deepthought (tinkering)
