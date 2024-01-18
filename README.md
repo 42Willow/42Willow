@@ -50,16 +50,17 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=42willow&langs_count=8&layout=compact&hide_border=true&bg_color=24273a&text_color=cad3f5&title_color=f5bde6&icon_color=c6a0f6&card_width=495"/>
 </div>
 
+<!--
 <div>
  <img src="http://github-readme-streak-stats.herokuapp.com?user=42willow&theme=dark&hide_border=true&background=24273a&ring=f5bde6&fire=ed8796&currStreakLabel=cad3f5&currStreakNum=cad3f5&sideLabels=cad3f5&sideNums=cad3f5&card_width=495">
 </div>
-
+-->
 ## 🛠 Architecture
 ### Earthy (main)
 ```console
 42willow@earthy:~% hostnamectl
 
-💾 OS     ~  Open SUSE Tumbleweed & Fedora Workstation & Windows 11
+💾 OS     ~  Arch Linux & Open SUSE Tumbleweed & Windows 11
 💻 Host   ~  Thinkpad Yoga X1 4th
 💽 Shell  ~  bash
 ```
