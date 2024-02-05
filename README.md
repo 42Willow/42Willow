@@ -31,8 +31,8 @@
 * :technologist: Basic knowledge in Python, HTML, CSS, JS, and C#
 * :art: Making pixel art on [Aseprite](https://github.com/aseprite/aseprite)
 * :bird: I love [birds](https://ebird.org)
-* :keyboard: Currently working on [Nocrastinate](https://42willow.github.io/nocrastinate)
-* :desktop_computer: My favourite distro is [OpenSUSE](https://www.opensuse.org/#Tumbleweed) with [Hyprland](https://hyprland.org/). My second favourites are [Fedora](https://fedoraproject.org/) with [GNOME](https://www.gnome.org/)
+<!--* :keyboard: Currently working on [Nocrastinate](https://42willow.github.io/nocrastinate)-->
+* :desktop_computer: My favourite distro is [Arch](https://archlinux.org/) with [Hyprland](https://hyprland.org/).
 * :smile_cat: My favourite theme is [Catppuccin](https://github.com/catppuccin)
 
 ## 🎶 Vibing to
@@ -83,7 +83,7 @@
 💽 Shell  ~  bash
 ```
 
-## 🔨 Tools
+<!--## 🔨 Tools-->
 <!--
 ### Languages
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -99,11 +99,13 @@
 ### Apps
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 -->
+<!--
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=black)
 ![Vivaldi](https://img.shields.io/badge/vivaldi-red?style=for-the-badge&logo=vivaldi&logoColor=white&labelColor=black)
 ![Obsidian.md](https://img.shields.io/badge/obsidian.md-%237C3AED?style=for-the-badge&logo=obsidian&logoColor=white&labelColor=black)
 ![Aseprite](https://img.shields.io/badge/aseprite-%23544450?style=for-the-badge&logo=aseprite&logoColor=white&labelColor=black)
 ![Spicetify](https://img.shields.io/badge/spicetify-%233e8625?style=for-the-badge&logo=spotify&logoColor=white&labelColor=black)
+-->
 <!--
 ![Element.io](https://img.shields.io/badge/element-%230DBD8B?style=for-the-badge&logo=element&logoColor=white)
 ![Prism Launcher](https://img.shields.io/badge/prism_launcher-%2362B47A?style=for-the-badge&logoColor=white)
