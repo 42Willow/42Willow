@@ -55,6 +55,7 @@
  <img src="http://github-readme-streak-stats.herokuapp.com?user=42willow&theme=dark&hide_border=true&background=24273a&ring=f5bde6&fire=ed8796&currStreakLabel=cad3f5&currStreakNum=cad3f5&sideLabels=cad3f5&sideNums=cad3f5&card_width=495">
 </div>
 -->
+<!--
 ## 🛠 Architecture
 ### Earthy (main)
 ```console
@@ -82,6 +83,7 @@
 💻 Host   ~  Raspberry Pi 4B/3B/3A/ZeroW
 💽 Shell  ~  bash
 ```
+-->
 
 <!--## 🔨 Tools-->
 <!--
@@ -118,6 +120,7 @@
 ![Ubuntu](https://img.shields.io/badge/ubuntu-%23E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 -->
 
+<!--
 ## 📃 FAQ
 ### What is the meaning of life?
 42... or is it 59?
@@ -125,3 +128,4 @@
 \*No comment\*
 ### What's top left?
 Binary. Pixel = 1. Off = 0.
+-->
