@@ -36,9 +36,7 @@
 <!--* :keyboard: Currently working on [Nocrastinate](https://42willow.github.io/nocrastinate)-->
 
 ## 🎶 Vibing to
-<a href="https://open.spotify.com/user/31dbqzfllsx6t6reikmjcnvjdr4e?si=2c59b84236f14b63" target="_blank">
-  <img src="https://spotify-readme-n30k31uw0-42mockingjay.vercel.app/api?theme=dark&rainbow=true" alt="Current Spotify Song">
-</a>
+<img src="https://spotify-readme-ebp2xp8af-42willows.vercel.app/api?theme=dark&rainbow=true" alt="Current Spotify Song">
 
 ## 📈 Stats
 
