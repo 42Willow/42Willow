@@ -37,7 +37,9 @@
 
 ## 🎶 Vibing to
 
-<img src="https://spotify-readme-42willows.vercel.app/api?theme=dark&rainbow=true" alt="Current Spotify Song">
+<a href="https://spotify-readme-42willows.vercel.app/api/play">
+  <img src="https://spotify-readme-42willows.vercel.app/api?theme=dark&rainbow=true" alt="Current Spotify Song">
+</a>
 
 ## 📈 Stats
 
