@@ -41,7 +41,7 @@
   <img src="https://spotify-readme-42willows.vercel.app/api?theme=dark&rainbow=true" alt="Current Spotify Song">
 </a>
 
-<a href="https://github.com/tthn0/Spotify-Readme">Source Repo</a>
+<a href="https://github.com/42willow/Spotify-Readme">Source Repo</a>
 
 ## 📈 Stats
 
