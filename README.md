@@ -35,14 +35,6 @@
 * :smile_cat: My favourite theme is [Catppuccin](https://github.com/catppuccin)
 <!--* :keyboard: Currently working on [Nocrastinate](https://42willow.github.io/nocrastinate)-->
 
-## 🎶 Vibing to
-
-<a href="https://spotify-readme-42willows.vercel.app/api/play">
-  <img src="https://spotify-readme-42willows.vercel.app/api?theme=dark&rainbow=true" alt="Current Spotify Song">
-</a>
-
-<a href="https://github.com/42willow/Spotify-Readme">Source Repo</a>
-
 ## 📈 Stats
 
 <div>
@@ -53,6 +45,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=42willow&langs_count=8&layout=compact&hide_border=true&bg_color=24273a&text_color=cad3f5&title_color=f5bde6&icon_color=c6a0f6&card_width=495"/>
 </div>
 
+## 🎶 Vibing to
+
+<a href="https://spotify-readme-42willows.vercel.app/api/play">
+  <img src="https://spotify-readme-42willows.vercel.app/api?theme=dark&rainbow=true" alt="Current Spotify Song">
+</a>
+
+<a href="https://github.com/42willow/Spotify-Readme">Source Repo</a>
 <!--
 <div>
  <img src="http://github-readme-streak-stats.herokuapp.com?user=42willow&theme=dark&hide_border=true&background=24273a&ring=f5bde6&fire=ed8796&currStreakLabel=cad3f5&currStreakNum=cad3f5&sideLabels=cad3f5&sideNums=cad3f5&card_width=495">
