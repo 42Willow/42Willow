@@ -5,7 +5,6 @@
 <div align="center">
   <a href="https://discord.com/users/752661242610450433">
     <img src="https://img.shields.io/badge/discord-%235865F2?logo=discord&logoColor=white" alt="Discord">
-
   </a>
   <a href="https://matrix.to/#/@42willow:matrix.org">
     <img src="https://img.shields.io/badge/matrix-black?style=flat&logo=matrix" alt="Matrix.org">
@@ -13,11 +12,8 @@
   <a href="https://mastodon.social/@42willow">
     <img src="https://img.shields.io/badge/mastodon-%236364FF?style=flat&logo=mastodon&logoColor=white" alt="Mastodon">
   </a>
-  <a href="https://reddit.com/u/42willow">
-    <img src="https://img.shields.io/badge/reddit-%23FF4500?style=flat&logo=reddit&logoColor=white" alt="Reddit">
-  </a>
 </div>
-
+<p align="center">Note: I may be slow to respond on matrix and mastodon</p>
 
 <h4 align="center">Check out my <a href="https://github.com/42willow/dotfiles">dotfiles</a>!</h4>
 
