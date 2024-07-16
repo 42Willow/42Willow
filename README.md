@@ -15,7 +15,7 @@
 </div>
 <p align="center">Note: I may be slow to respond on matrix and mastodon</p>
 
-<h4 align="center">Check out my <a href="https://github.com/42willow/dotfiles">dotfiles</a>!</h4>
+<h4 align="center">Check out my <a href="https://42willow.github.io">website</a> :)</h4>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/42willow/42willow/output/github-contribution-grid-snake-dark.svg">
@@ -23,14 +23,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/42willow/42willow/output/github-contribution-grid-snake.svg">
 </picture>
 
-* :seedling: I enjoy playing [block games](https://prismlauncher.org), [programming](https://code.visualstudio.com), procrastinating
-* :technologist: Basic knowledge in Python, HTML, CSS, JS, and C#
-* :art: Making pixel art on [Aseprite](https://github.com/aseprite/aseprite)
-* :bird: I love [birds](https://ebird.org)
-* :desktop_computer: My favourite distro is [Arch](https://archlinux.org/) with [Hyprland](https://hyprland.org/).
-* :smile_cat: My favourite theme is [Catppuccin](https://github.com/catppuccin)
-<!--* :keyboard: Currently working on [Nocrastinate](https://42willow.github.io/nocrastinate)-->
-
+<!--
 ## 📈 Stats
 
 <div>
@@ -48,6 +41,8 @@
 </a>
 
 <a href="https://github.com/42willow/Spotify-Readme">Source Repo</a>
+-->
+
 <!--
 <div>
  <img src="http://github-readme-streak-stats.herokuapp.com?user=42willow&theme=dark&hide_border=true&background=24273a&ring=f5bde6&fire=ed8796&currStreakLabel=cad3f5&currStreakNum=cad3f5&sideLabels=cad3f5&sideNums=cad3f5&card_width=495">
